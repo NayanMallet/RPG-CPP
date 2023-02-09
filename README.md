@@ -1,5 +1,5 @@
-### RPG-CPP
-## How to Install
+# RPG-CPP
+## How to Install ⚠️
 1. Download the latest release from [https://github.com/NayanMallet/RPG-CPP](
 2. Extract the zip file
 3. Open the folder
@@ -7,7 +7,7 @@
 6. Run it !
 7. Enjoy !
 
-## Game Controls
+## Game Controls 🎮
 - Show Stats of the player: `YourPlayer->Show();`
 - Show the player's inventory: `YourPlayer->showBag();`
 - Show the player's equipment: `YourPlayer->showEquipement();`
