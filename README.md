@@ -1,6 +1,6 @@
 # RPG-CPP
 ## How to Install ⚠️
-1. Download the latest release from [https://github.com/NayanMallet/RPG-CPP](
+1. Download the latest release from [here 🔗](https://github.com/NayanMallet/RPG-CPP)
 2. Extract the zip file
 3. Open the folder
 5. Build the project
